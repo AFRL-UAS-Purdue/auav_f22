@@ -2,7 +2,7 @@ import rclpy
 from rclpy.node import Node
 
 from std_msgs.msg import String
-from px4_msgs.msg import 
+from px4_msgs.msg import *
 
 
 class MinimalPublisher(Node):
