@@ -2,6 +2,3 @@
 	path = px4/PX4-Autopilot
 	url = https://github.com/jgoppert/PX4-Autopilot.git
 
-##[submodule "path_planning"]
-##	path = px4/path_planning
-##	url = https://github.com/AFRL-UAS-Purdue/path_planning.git

@@ -2,5 +2,9 @@
     "python.autoComplete.extraPaths": [
         "/home/docker/px4_ros_com_ros2/install/px4_msgs/lib/python3.8/site-packages",
         "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/docker/px4_ros_com_ros2/install/px4_msgs/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
     ]
 }
